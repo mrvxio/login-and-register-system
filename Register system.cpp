@@ -61,5 +61,6 @@ void appEngine()
 int main()
 {
     appEngine();
+    return 0;
 }
 
